@@ -1,0 +1,16 @@
+1
+Parakeet
+9
+0
+1
+Parrot
+14
+0
+2
+Hedgehog
+11
+0
+2
+Ferret
+14
+0
